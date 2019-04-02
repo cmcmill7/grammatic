@@ -64,7 +64,7 @@ Group Project - README Template
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzFiOTBjNWZiMGQ5MzQ2OWVhZmEwZmUwYTc4YWU5YzMzX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRA==" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
